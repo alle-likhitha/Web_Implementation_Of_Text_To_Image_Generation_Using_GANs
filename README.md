@@ -1,3 +1,3 @@
-- AttnGAN directory has the back-end part.
+- GAN-backend directory has the back-end part.
 
-- web-app-GAN-master directory has the front-end part.
+- Flask-frontend directory has the front-end part.
