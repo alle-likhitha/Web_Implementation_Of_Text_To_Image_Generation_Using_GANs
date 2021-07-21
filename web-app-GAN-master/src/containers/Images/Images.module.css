@@ -1,0 +1,33 @@
+.Images{
+    width: 100%;
+    height: max-content;
+    /* height: fit-content; */
+    /* background-color: #20bf55;
+    background-image:linear-gradient(315deg, #20bf55 0%, #01baef 74%); */
+    padding-top: 4%;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.ImgDiv{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.ImgTag{
+    width: 300px;
+    height: 300px;
+    border-radius: 20px;
+    padding: 3%;
+
+}
+.err{
+    font-family:fantasy ;
+    color: rgb(255, 0, 0);
+}
+
+.NavItem {
+    text-decoration: none;
+    padding: 50%
+}
